@@ -1,0 +1,33 @@
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\appsettings.Development.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\appsettings.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\Asp.net Practice.staticwebassets.runtime.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\Asp.net Practice.staticwebassets.endpoints.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\Asp.net Practice.exe
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\Asp.net Practice.deps.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\Asp.net Practice.runtimeconfig.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\Asp.net Practice.dll
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\bin\Debug\net8.0\Asp.net Practice.pdb
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.AssemblyInfoInputs.cache
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.AssemblyInfo.cs
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.csproj.CoreCompileInputs.cache
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.MvcApplicationPartsAssemblyInfo.cache
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.RazorAssemblyInfo.cache
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.RazorAssemblyInfo.cs
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\scopedcss\bundle\Asp.net Practice.styles.css
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\scopedcss\projectbundle\Asp.net Practice.bundle.scp.css
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\staticwebassets.build.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\staticwebassets.development.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.dll
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\refint\Asp.net Practice.dll
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.pdb
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.genruntimeconfig.cache
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\ref\Asp.net Practice.dll
