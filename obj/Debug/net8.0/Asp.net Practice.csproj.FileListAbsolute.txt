@@ -31,3 +31,4 @@ E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\refin
 E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.pdb
 E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.genruntimeconfig.cache
 E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\ref\Asp.net Practice.dll
+E:\Sohail\Visual Studio\Asp.net Practice\Asp.net Practice\obj\Debug\net8.0\Asp.net Practice.sourcelink.json
